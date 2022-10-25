@@ -1,4 +1,4 @@
-@BiljanaKotev
+
 
 # 👋 Hi, I’m Biljana
 - 👀 I’m interested in web/app development
