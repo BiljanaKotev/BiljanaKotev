@@ -6,8 +6,8 @@
   <img src="https://i.postimg.cc/RZDnv5BQ/Female-Developer.jpg" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/biljana-kotevska/" target_"blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/BiljanaCodes" target_"blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.linkedin.com/in/biljana-kotevska/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://twitter.com/BiljanaCodes"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   
 </div>
 
