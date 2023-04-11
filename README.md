@@ -28,3 +28,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+   <img src="illustrator.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
