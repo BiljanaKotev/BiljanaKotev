@@ -14,7 +14,7 @@
 &nbsp; 
   
    - 👀 I’m interested in web/app development
-   - 🌱 I’m currently learning **JavaScript** **React** **TypesScript** **Next.js**
+   - 🌱 I’m currently learning **JavaScript** - **React** - **TypesScript** - **Next.js**
    - 📫 How to reach me: biljanakotev@gmail.com
  
 
